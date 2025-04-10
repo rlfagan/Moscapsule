@@ -51,6 +51,7 @@ In order to import the framework in tests, you should select configuration files
 a) Select your project and `info`.  
 b) Change configuration files from none to Pods.debug/release.  
 ![Configuration File](https://flightonary.github.io/img/inst_with_cocoapods.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FMoscapsule.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FMoscapsule?ref=badge_shield)
 
 ### Manual Installation
 If you don't want to use CocoaPods, you can install manually.
@@ -236,3 +237,7 @@ Mosquitto: EPL/EDL license
 Author
 ------
 tonary <<nekomelife@gmail.com>>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FMoscapsule.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FMoscapsule?ref=badge_large)
